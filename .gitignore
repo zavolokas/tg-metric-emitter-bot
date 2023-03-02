@@ -1,0 +1,4 @@
+**/tmp.json
+.env
+bin
+tmp.*
